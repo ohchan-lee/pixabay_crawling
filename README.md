@@ -14,3 +14,8 @@ keyword : 검색 하려는 키워드
 number : 이미지 장 수
 
 result_dir : 결과 파일 저장할 폴더 이름
+
+high_resulution (t / f /T / F / True / False / true / false)
+
+True면 고화질 이미지 다운로드,
+False면 썸네일 다운로드
